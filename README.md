@@ -88,7 +88,7 @@ dhc-GA/
 
 - **`App.java`**: Ponto de entrada, configura e executa o algoritmo
 - **`ElementoGA.java`**: Classe base que define um cromossomo genérico
-- **`ElementoGA1.java`**: Especialização para a função f6 de Schaffer
+- **`ElementoGA1.java`**: Especialização para a função f6
 - **`GA.java`**: Implementação geral do algoritmo genético
 - **`GA1.java`**: AG especializado que usa ElementoGA1
 
@@ -175,6 +175,7 @@ Este projeto é excelente para aprender sobre:
 ---
 
 **Referência**: Baseado no livro "Algoritmos Genéticos" de Ricardo Linden
+
 
 
 
