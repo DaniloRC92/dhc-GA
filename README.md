@@ -1,6 +1,6 @@
-# Algoritmo Genético - Otimização da Função de Schaffer f6
+# Algoritmo Genético - Otimização da Função f6
 
-Este projeto implementa um **Algoritmo Genético** para otimização da função matemática f6 de Schaffer, uma função de benchmark amplamente utilizada em otimização global. O código foi modernizado mantendo a funcionalidade original descrita no livro "Algoritmos Genéticos" de Ricardo Linden.
+Este projeto implementa um **Algoritmo Genético** para otimização da função matemática f6, uma função de benchmark amplamente utilizada em otimização global. O código foi modernizado mantendo a funcionalidade original descrita no livro "Algoritmos Genéticos" de Ricardo Linden.
 
 ## 📋 Índice
 
@@ -22,9 +22,9 @@ Este projeto implementa um **algoritmo genético** para encontrar o **máximo gl
 - ✅ **Operadores genéticos**: Seleção por roleta, crossover de um ponto, mutação bit-a-bit
 - ✅ **Código modernizado**: Utiliza boas práticas atuais do Java
 
-## 🧮 A Função de Schaffer f6
+## 🧮 A Função f6
 
-A **função f6 de Schaffer** é definida como:
+A **função f6** é definida como:
 
 ```
 f6(x,y) = 0.5 - (sin²(√(x² + y²)) - 0.5) / (1 + 0.001(x² + y²))²
@@ -175,3 +175,4 @@ Este projeto é excelente para aprender sobre:
 ---
 
 **Referência**: Baseado no livro "Algoritmos Genéticos" de Ricardo Linden
+
