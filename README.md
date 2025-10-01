@@ -5,7 +5,7 @@ Este projeto implementa um **Algoritmo Genético** para otimização da função
 ## 📋 Índice
 
 - [O que é este projeto](#o-que-é-este-projeto)
-- [A Função de Schaffer f6](#a-função-f6)
+- [A Função f6](#a-função-f6)
 - [Como funciona o Algoritmo Genético](#como-funciona-o-algoritmo-genético)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Como executar](#como-executar)
@@ -175,5 +175,6 @@ Este projeto é excelente para aprender sobre:
 ---
 
 **Referência**: Baseado no livro "Algoritmos Genéticos" de Ricardo Linden
+
 
 
