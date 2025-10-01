@@ -3,7 +3,6 @@
 
 public class ElementoGA1 extends ElementoGA {
     
-    // Constantes para melhor legibilidade e manutenção
     private static final int TAMANHO_CROMOSSOMO = 44;
     private static final int BITS_POR_VARIAVEL = 22;
     private static final double FATOR_CONVERSAO = 0.00004768372718899898;
